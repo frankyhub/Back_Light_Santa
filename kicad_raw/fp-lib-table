@@ -1,4 +1,0 @@
-
-(fp_lib_table
-  (lib (name "BL_Santa")(type KiCad)(uri "$(KIPRJMOD)/BL_Santa.pretty")(options "")(descr ""))
-)
