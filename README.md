@@ -11,7 +11,6 @@
 
 
 
-# Back_Light_Santa
 
 <img src="pic/Santa_svg.png" width="500"> 
 <br> <br>
